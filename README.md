@@ -43,4 +43,7 @@ The site has been deployed online using **Github Pages**.
 3. Selected branch `main` and root `/`  
 4. Site is live at the link below  
 
-👉 **Live URL:** [https://shallon20.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/projects.html](https://shallon20.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/projects.html) * 
+**Live URL:** [https://shallon20.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/projects.html](https://shallon20.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/projects.html) * 
+
+Also at:
+** [https://shallon-portfolio.netlify.app/](https://shallon-portfolio.netlify.app/)*
